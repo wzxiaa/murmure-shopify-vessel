@@ -458,7 +458,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<p>Elevated Silk Pillowcases</p>",
+                "text": "<p>Premium Silk Hair Scrunchies</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "alignment": "left",
@@ -483,7 +483,7 @@
             "text_AzcVt9": {
               "type": "text",
               "settings": {
-                "text": "<p>Indulge in cooler, smoother, more restorative nights with our ultra-soft silk pillowcases</p>",
+                "text": "<p>Soft, gentle, and effortlessly elegant — silk scrunchies that protect your hair with everyday luxury</p>",
                 "width": "fit-content",
                 "max_width": "narrow",
                 "alignment": "left",
@@ -649,7 +649,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<h2>Our signature product.</h2>",
+                "text": "<p>Silk Pillowcases Collection</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "alignment": "left",
@@ -674,7 +674,7 @@
             "text_64Ae6L": {
               "type": "text",
               "settings": {
-                "text": "<p>Made with care and unconditionally loved by our customers, this signature bestseller exceeds all expectations.</p>",
+                "text": "<p>Indulge in cooler, smoother, more restorative nights with our ultra-soft silk pillowcases</p>",
                 "width": "fit-content",
                 "max_width": "narrow",
                 "alignment": "left",
