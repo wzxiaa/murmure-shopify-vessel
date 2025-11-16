@@ -59,7 +59,7 @@
           "settings": {
             "source": "uploaded",
             "video": "shopify://files/videos/结茧.mov",
-            "video_autoplay": false,
+            "video_autoplay": true,
             "video_loop": true,
             "alt": "",
             "custom_width": 100,
@@ -205,6 +205,20 @@
         "padding-block-end": 0
       }
     },
+    "divider_DwKA98": {
+      "type": "divider",
+      "name": "t:names.divider_section",
+      "settings": {
+        "color_scheme": "",
+        "section_width": "full-width",
+        "thickness": 1,
+        "corner_radius": "square",
+        "width_percent": 100,
+        "alignment_horizontal": "center",
+        "padding-block-start": 16,
+        "padding-block-end": 16
+      }
+    },
     "section_dcXamx": {
       "type": "section",
       "blocks": {
@@ -309,7 +323,7 @@
           "settings": {
             "source": "uploaded",
             "video": "shopify://files/videos/A0299.mov",
-            "video_autoplay": false,
+            "video_autoplay": true,
             "video_loop": true,
             "alt": "",
             "custom_width": 100,
@@ -360,6 +374,20 @@
         "padding-block-end": 0
       }
     },
+    "divider_GEE8Dc": {
+      "type": "divider",
+      "name": "t:names.divider_section",
+      "settings": {
+        "color_scheme": "",
+        "section_width": "full-width",
+        "thickness": 1,
+        "corner_radius": "square",
+        "width_percent": 100,
+        "alignment_horizontal": "center",
+        "padding-block-start": 16,
+        "padding-block-end": 16
+      }
+    },
     "section_FxwRaE": {
       "type": "section",
       "blocks": {
@@ -369,7 +397,7 @@
           "settings": {
             "source": "uploaded",
             "video": "shopify://files/videos/murmure behind the silk.mp4",
-            "video_autoplay": false,
+            "video_autoplay": true,
             "video_loop": true,
             "alt": "",
             "custom_width": 100,
@@ -519,7 +547,9 @@
   "order": [
     "main",
     "section_9xUc8V",
+    "divider_DwKA98",
     "section_dcXamx",
+    "divider_GEE8Dc",
     "section_FxwRaE"
   ]
 }
