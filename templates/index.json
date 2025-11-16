@@ -509,7 +509,7 @@
               "type": "button",
               "settings": {
                 "label": "Shop now",
-                "link": "shopify://collections/all",
+                "link": "shopify://collections/scrunchies",
                 "open_in_new_tab": false,
                 "style_class": "button",
                 "width": "fit-content",
@@ -700,7 +700,7 @@
               "type": "button",
               "settings": {
                 "label": "Shop now",
-                "link": "shopify://collections/all",
+                "link": "shopify://collections/pillowcases",
                 "open_in_new_tab": false,
                 "style_class": "button",
                 "width": "fit-content",
