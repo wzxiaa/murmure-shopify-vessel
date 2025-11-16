@@ -199,8 +199,8 @@
         "button_tLADxb": {
           "type": "button",
           "settings": {
-            "label": "About Us",
-            "link": "shopify://pages/about-us",
+            "label": "Behind the silk",
+            "link": "shopify://blogs/silk-knowledge/what-is-momme",
             "open_in_new_tab": false,
             "style_class": "link",
             "width": "fit-content",
