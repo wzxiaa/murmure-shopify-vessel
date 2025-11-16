@@ -116,7 +116,7 @@
             "button_xaXcR4": {
               "type": "button",
               "settings": {
-                "label": "Shop now",
+                "label": "About us",
                 "link": "shopify://collections/all",
                 "open_in_new_tab": false,
                 "style_class": "button",
