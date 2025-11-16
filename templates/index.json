@@ -12,19 +12,6 @@
     "hero_998BGj": {
       "type": "hero",
       "blocks": {
-        "spacer_Ec4ebP": {
-          "type": "spacer",
-          "settings": {
-            "size": "pixel",
-            "percent_size": 100,
-            "pixel_size": 24,
-            "custom_mobile_size": false,
-            "size_mobile": "percent",
-            "percent_size_mobile": 100,
-            "pixel_size_mobile": 120
-          },
-          "blocks": {}
-        },
         "marquee_QkMV7h": {
           "type": "_marquee",
           "settings": {
@@ -149,7 +136,6 @@
         }
       },
       "block_order": [
-        "spacer_Ec4ebP",
         "marquee_QkMV7h",
         "group_h4Ekxp"
       ],
