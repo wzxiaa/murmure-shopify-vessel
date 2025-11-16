@@ -361,7 +361,7 @@
             "button_6YyKiC": {
               "type": "button",
               "settings": {
-                "label": "Shop now",
+                "label": "View all",
                 "link": "shopify://collections/eye-mask",
                 "open_in_new_tab": false,
                 "style_class": "button",
@@ -508,7 +508,7 @@
             "button_Yhn7cV": {
               "type": "button",
               "settings": {
-                "label": "Shop now",
+                "label": "View all",
                 "link": "shopify://collections/scrunchies",
                 "open_in_new_tab": false,
                 "style_class": "button",
@@ -699,7 +699,7 @@
             "button_KBnYNV": {
               "type": "button",
               "settings": {
-                "label": "Shop now",
+                "label": "View all",
                 "link": "shopify://collections/pillowcases",
                 "open_in_new_tab": false,
                 "style_class": "button",
