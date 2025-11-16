@@ -199,8 +199,8 @@
         "button_tLADxb": {
           "type": "button",
           "settings": {
-            "label": "Shop now",
-            "link": "shopify://collections/all",
+            "label": "About Us",
+            "link": "shopify://pages/about-us",
             "open_in_new_tab": false,
             "style_class": "link",
             "width": "fit-content",
