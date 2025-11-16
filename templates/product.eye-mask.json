@@ -449,7 +449,7 @@
                         "text_6rQYtf": {
                           "type": "text",
                           "settings": {
-                            "text": "<p>We offer shipping and returns within Canada and the continental United States.<br/><br/><strong>Processing Time</strong></p><ul><li>Orders are processed within 1–2 business days, excluding weekends and public holidays.</li></ul><p><strong>Estimated Delivery Time</strong></p><ul><li>Canada: 3–7 business days</li><li>United States: 7–14 business days</li></ul><p><strong>Shipping Rates</strong></p><ul><li>Canada: Free standard shipping on orders over CAD $100. A flat rate of CAD $8 applies to orders under CAD $100.</li><li>United States: A flat international shipping fee of CAD $15 applies to all orders.</li></ul><p><strong>Duties and Taxes</strong><br/>Orders shipped to the United States may be subject to import duties or taxes, which are the responsibility of the customer. These charges are determined by U.S. customs authorities.<br/><br/><strong>Return and Exchange</strong><br/>Returns and exchanges are accepted within 30 days of the delivery date. Items must be unused, unwashed, and in original condition and packaging.</p><ul><li><strong>Returns - </strong>A flat return shipping fee of CAD $10 will be deducted from your refund if you choose to use our prepaid return label. Original shipping fees (if applicable) are non-refundable.</li><li><strong>Exchanges - </strong>Exchanges are free of charge and processed upon receipt of the original item, subject to availability.</li></ul>",
+                            "text": "<p>We offer shipping and returns within Canada and the continental United States.<br/><br/><strong>Processing Time</strong></p><ul><li>Orders are processed within 1–2 business days, excluding weekends and public holidays.</li></ul><p><strong>Estimated Delivery Time</strong></p><ul><li>Canada: 3–7 business days</li><li>United States: 7–14 business days</li></ul><p><strong>Shipping Rates</strong></p><ul><li>Canada: Free standard shipping on orders over CAD $100. A flat rate of CAD $8 applies to orders under CAD $100.</li><li>United States: A flat international shipping fee of CAD $15 applies to all orders.</li></ul><p><strong>Duties and Taxes - </strong>Orders shipped to the United States may be subject to import duties or taxes, which are the responsibility of the customer. These charges are determined by U.S. customs authorities.<br/><br/><strong>Return and Exchange - </strong>Returns and exchanges are accepted within 30 days of the delivery date. Items must be unused, unwashed, and in original condition and packaging.</p><ul><li><strong>Returns - </strong>A flat return shipping fee of CAD $10 will be deducted from your refund if you choose to use our prepaid return label. Original shipping fees (if applicable) are non-refundable.</li><li><strong>Exchanges - </strong>Exchanges are free of charge and processed upon receipt of the original item, subject to availability.</li></ul>",
                             "width": "100%",
                             "max_width": "normal",
                             "alignment": "left",
@@ -510,8 +510,39 @@
         "padding-block-end": 20
       }
     },
+    "divider_bRM9tb": {
+      "type": "divider",
+      "name": "t:names.divider_section",
+      "settings": {
+        "color_scheme": "",
+        "section_width": "full-width",
+        "thickness": 1,
+        "corner_radius": "square",
+        "width_percent": 100,
+        "alignment_horizontal": "center",
+        "padding-block-start": 16,
+        "padding-block-end": 16
+      }
+    },
     "1763319984b7c2450e": {
       "type": "_blocks",
+      "blocks": {
+        "full_width_product_description_full_width_description_3nAgQk": {
+          "type": "shopify://apps/full-width-product-description/blocks/full-width-description/9ae2264c-1543-4ccd-989c-99d86d186203",
+          "settings": {
+            "top_section_padding": 50,
+            "bottom_section_padding": 50,
+            "inside_top_bottom_padding": 0,
+            "inside_left_right_padding": 0,
+            "background_color": "",
+            "border_radius": 0,
+            "full_width": false
+          }
+        }
+      },
+      "block_order": [
+        "full_width_product_description_full_width_description_3nAgQk"
+      ],
       "settings": {
         "content_direction": "column",
         "vertical_on_mobile": true,
@@ -1303,6 +1334,7 @@
   },
   "order": [
     "main",
+    "divider_bRM9tb",
     "1763319984b7c2450e",
     "media_with_content_kpQCTG",
     "product-recommendations",
