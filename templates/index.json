@@ -174,7 +174,7 @@
         "text_e7gXJJ": {
           "type": "text",
           "settings": {
-            "text": "<p>murmuré invites you to pause in softness —<br/>the feel of natural fabric on skin, the pause between moments, and the quiet assurance of something made to last. You live it. The silk remembers.</p>",
+            "text": "<p>murmuré invites you to pause in softness —<br/>the feel of natural fabric on skin, the pause between moments, and the quiet assurance of something made to last. <strong>You live it. The silk remembers.</strong></p>",
             "width": "100%",
             "max_width": "normal",
             "alignment": "center",
