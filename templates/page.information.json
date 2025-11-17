@@ -58,7 +58,8 @@
           "name": "t:names.video",
           "settings": {
             "source": "uploaded",
-            "video": "shopify://files/videos/结茧.mov",
+            "video": "shopify://files/videos/My Movie.mp4",
+            "video_url": "",
             "video_autoplay": true,
             "video_loop": true,
             "alt": "",
@@ -322,7 +323,8 @@
           "name": "t:names.video",
           "settings": {
             "source": "uploaded",
-            "video": "shopify://files/videos/A0299.mov",
+            "video": "shopify://files/videos/裁剪.mov",
+            "video_url": "",
             "video_autoplay": true,
             "video_loop": true,
             "alt": "",
@@ -397,6 +399,7 @@
           "settings": {
             "source": "uploaded",
             "video": "shopify://files/videos/murmure behind the silk.mp4",
+            "video_url": "",
             "video_autoplay": true,
             "video_loop": true,
             "alt": "",
