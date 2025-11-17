@@ -196,31 +196,6 @@
           },
           "blocks": {}
         },
-        "text_7JGxRh": {
-          "type": "text",
-          "settings": {
-            "text": "<h1>murmuré invites you to pause in softness —<br/>the feel of natural fabric on skin, the pause between moments, and the quiet assurance of something made to last. You live it. The silk remembers.</h1>",
-            "width": "100%",
-            "max_width": "normal",
-            "alignment": "center",
-            "type_preset": "h3",
-            "font": "var(--font-body--family)",
-            "font_size": "1rem",
-            "line_height": "normal",
-            "letter_spacing": "normal",
-            "case": "none",
-            "wrap": "pretty",
-            "color": "var(--color-foreground)",
-            "background": false,
-            "background_color": "#00000026",
-            "corner_radius": 0,
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {}
-        },
         "button_tLADxb": {
           "type": "button",
           "settings": {
@@ -238,7 +213,6 @@
       },
       "block_order": [
         "text_e7gXJJ",
-        "text_7JGxRh",
         "button_tLADxb"
       ],
       "name": "t:names.pull_quote",
