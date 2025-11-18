@@ -9,52 +9,6 @@
  */
 {
   "sections": {
-    "ss_blog_2_b6NMJP": {
-      "type": "ss-blog-2",
-      "blocks": {
-        "article_fXp8jn": {
-          "type": "Article",
-          "settings": {
-            "article": "silk-knowledge/silk-vs-cotton-the-ultimate-pillowcase-comparison"
-          }
-        },
-        "article_7Vcd4Y": {
-          "type": "Article",
-          "settings": {
-            "article": "silk-knowledge/what-is-momme"
-          }
-        },
-        "article_Ai7NwM": {
-          "type": "Article",
-          "settings": {
-            "article": "silk-knowledge/behind-the-silk"
-          }
-        },
-        "article_eVn8YQ": {
-          "type": "Article",
-          "settings": {
-            "article": ""
-          }
-        }
-      },
-      "block_order": [
-        "article_fXp8jn",
-        "article_7Vcd4Y",
-        "article_Ai7NwM",
-        "article_eVn8YQ"
-      ],
-      "name": "SS - Blog #2",
-      "settings": {
-        "button_text": "Read more",
-        "make_more_readable": true,
-        "remove_description_text": true,
-        "section_bg_color": "#ffffff",
-        "button_color": "#ff7a15",
-        "description_maintext_color": "#ffffff",
-        "title_font": "assistant_n4",
-        "description_font": "assistant_n4"
-      }
-    },
     "main": {
       "type": "main-blog",
       "blocks": {
@@ -63,9 +17,9 @@
           "name": "Title",
           "settings": {
             "text": "<h1>Soft Science</h1>",
-            "width": "fit-content",
+            "width": "100%",
             "max_width": "narrow",
-            "alignment": "left",
+            "alignment": "center",
             "type_preset": "h2",
             "font": "var(--font-primary--family)",
             "font_size": "",
@@ -86,6 +40,7 @@
         },
         "static-blog-post-card": {
           "type": "_blog-post-card",
+          "disabled": true,
           "static": true,
           "settings": {
             "alignment": "left"
@@ -171,10 +126,56 @@
         "padding-block-start": 0,
         "padding-block-end": 48
       }
+    },
+    "ss_blog_2_b6NMJP": {
+      "type": "ss-blog-2",
+      "blocks": {
+        "article_fXp8jn": {
+          "type": "Article",
+          "settings": {
+            "article": "silk-knowledge/silk-vs-cotton-the-ultimate-pillowcase-comparison"
+          }
+        },
+        "article_7Vcd4Y": {
+          "type": "Article",
+          "settings": {
+            "article": "silk-knowledge/what-is-momme"
+          }
+        },
+        "article_Ai7NwM": {
+          "type": "Article",
+          "settings": {
+            "article": "silk-knowledge/behind-the-silk"
+          }
+        },
+        "article_eVn8YQ": {
+          "type": "Article",
+          "settings": {
+            "article": ""
+          }
+        }
+      },
+      "block_order": [
+        "article_fXp8jn",
+        "article_7Vcd4Y",
+        "article_Ai7NwM",
+        "article_eVn8YQ"
+      ],
+      "name": "SS - Blog #2",
+      "settings": {
+        "button_text": "Read more",
+        "make_more_readable": true,
+        "remove_description_text": true,
+        "section_bg_color": "#ffffff",
+        "button_color": "#ff7a15",
+        "description_maintext_color": "#ffffff",
+        "title_font": "assistant_n4",
+        "description_font": "assistant_n4"
+      }
     }
   },
   "order": [
-    "ss_blog_2_b6NMJP",
-    "main"
+    "main",
+    "ss_blog_2_b6NMJP"
   ]
 }
