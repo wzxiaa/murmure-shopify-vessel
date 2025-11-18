@@ -15,19 +15,19 @@
         "article_fXp8jn": {
           "type": "Article",
           "settings": {
-            "article": ""
+            "article": "silk-knowledge/silk-vs-cotton-the-ultimate-pillowcase-comparison"
           }
         },
         "article_7Vcd4Y": {
           "type": "Article",
           "settings": {
-            "article": ""
+            "article": "silk-knowledge/what-is-momme"
           }
         },
         "article_Ai7NwM": {
           "type": "Article",
           "settings": {
-            "article": ""
+            "article": "silk-knowledge/behind-the-silk"
           }
         },
         "article_eVn8YQ": {
@@ -48,9 +48,9 @@
         "button_text": "Read more",
         "make_more_readable": true,
         "remove_description_text": true,
-        "section_bg_color": "#fff",
-        "button_color": "#FF7A15",
-        "description_maintext_color": "#FFFFFF",
+        "section_bg_color": "#ffffff",
+        "button_color": "#ff7a15",
+        "description_maintext_color": "#ffffff",
         "title_font": "assistant_n4",
         "description_font": "assistant_n4"
       }
