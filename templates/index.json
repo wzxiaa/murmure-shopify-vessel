@@ -83,35 +83,10 @@
               },
               "blocks": {}
             },
-            "text_hXmV9j": {
-              "type": "text",
-              "settings": {
-                "text": "<h2><strong>Silk. Simple. Serene.</strong></h2>",
-                "width": "fit-content",
-                "max_width": "normal",
-                "alignment": "left",
-                "type_preset": "rte",
-                "font": "var(--font-body--family)",
-                "font_size": "1rem",
-                "line_height": "normal",
-                "letter_spacing": "normal",
-                "case": "none",
-                "wrap": "pretty",
-                "color": "var(--color-foreground)",
-                "background": false,
-                "background_color": "#00000026",
-                "corner_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            },
             "text_MRyBAY": {
               "type": "text",
               "settings": {
-                "text": "<p>To restore softness as a language of strength, through silk rituals that honors rest, beauty, and being</p>",
+                "text": "<h3>To restore softness as a language of strength, through silk rituals that honors rest, beauty, and being</h3>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "alignment": "left",
@@ -150,7 +125,6 @@
           },
           "block_order": [
             "logo_AWq94W",
-            "text_hXmV9j",
             "text_MRyBAY",
             "button_xaXcR4"
           ]
