@@ -9,6 +9,52 @@
  */
 {
   "sections": {
+    "ss_blog_2_b6NMJP": {
+      "type": "ss-blog-2",
+      "blocks": {
+        "article_fXp8jn": {
+          "type": "Article",
+          "settings": {
+            "article": ""
+          }
+        },
+        "article_7Vcd4Y": {
+          "type": "Article",
+          "settings": {
+            "article": ""
+          }
+        },
+        "article_Ai7NwM": {
+          "type": "Article",
+          "settings": {
+            "article": ""
+          }
+        },
+        "article_eVn8YQ": {
+          "type": "Article",
+          "settings": {
+            "article": ""
+          }
+        }
+      },
+      "block_order": [
+        "article_fXp8jn",
+        "article_7Vcd4Y",
+        "article_Ai7NwM",
+        "article_eVn8YQ"
+      ],
+      "name": "SS - Blog #2",
+      "settings": {
+        "button_text": "Read more",
+        "make_more_readable": true,
+        "remove_description_text": true,
+        "section_bg_color": "#fff",
+        "button_color": "#FF7A15",
+        "description_maintext_color": "#FFFFFF",
+        "title_font": "assistant_n4",
+        "description_font": "assistant_n4"
+      }
+    },
     "main": {
       "type": "main-blog",
       "blocks": {
@@ -121,13 +167,14 @@
         "title"
       ],
       "settings": {
-        "color_scheme": "",
+        "color_scheme": "scheme-1",
         "padding-block-start": 0,
         "padding-block-end": 48
       }
     }
   },
   "order": [
+    "ss_blog_2_b6NMJP",
     "main"
   ]
 }
