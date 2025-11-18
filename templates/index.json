@@ -63,10 +63,30 @@
             "padding-inline-end": 48
           },
           "blocks": {
+            "logo_AWq94W": {
+              "type": "logo",
+              "name": "t:names.logo",
+              "settings": {
+                "inverse": true,
+                "font": "heading",
+                "unit": "pixel",
+                "percent_width": 100,
+                "pixel_height": 48,
+                "custom_mobile_size": false,
+                "unit_mobile": "percent",
+                "percent_width_mobile": 100,
+                "pixel_height_mobile": 120,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
             "text_hXmV9j": {
               "type": "text",
               "settings": {
-                "text": "<h2>murmuré — Silk. Simple. Serene.</h2>",
+                "text": "<h2><strong>Silk. Simple. Serene.</strong></h2>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "alignment": "left",
@@ -129,6 +149,7 @@
             }
           },
           "block_order": [
+            "logo_AWq94W",
             "text_hXmV9j",
             "text_MRyBAY",
             "button_xaXcR4"
