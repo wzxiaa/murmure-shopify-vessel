@@ -159,7 +159,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>Get your seat at the table</p>",
+                    "text": "<p>Sign up for news letter</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
@@ -195,7 +195,7 @@
                     "input_type_preset": "h5",
                     "style_class": "button",
                     "display_type": "text",
-                    "label": "SUBSCRIBE",
+                    "label": "SIGN UP",
                     "integrated_button": false,
                     "button_type_preset": "h5",
                     "padding-block-start": 0,
