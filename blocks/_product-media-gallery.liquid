@@ -322,9 +322,9 @@
               assign media_sizes = sizes
             endif
           -%}
-          <div class="custom-media-icon">
+          {% comment %} <div class="custom-media-icon">
             <img src="{{ 'OEKO.jpg' | asset_url }}" alt="Icon" />
-          </div>
+          </div> {% endcomment %}
           {%- render 'product-media', media: media, sizes: media_sizes, is_main_product_media: forloop.first -%}
         </li>
       {% endfor %}
