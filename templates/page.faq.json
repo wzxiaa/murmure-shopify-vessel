@@ -102,7 +102,7 @@
             "accordion_row_hy434N": {
               "type": "_accordion-row",
               "settings": {
-                "heading": "What Is Silk? What Makes It Unique?",
+                "heading": "1. What Is Silk? What Makes It Unique?",
                 "open_by_default": false,
                 "icon": "none",
                 "width": 20
@@ -141,7 +141,7 @@
             "accordion_row_KLT4zb": {
               "type": "_accordion-row",
               "settings": {
-                "heading": "What Are the Benefits of Silk Bedding for Sleep?",
+                "heading": "2. What Are the Benefits of Silk Bedding for Sleep?",
                 "open_by_default": false,
                 "icon": "none",
                 "width": 20
@@ -181,7 +181,7 @@
               "type": "_accordion-row",
               "name": "t:names.accordion_dash_row",
               "settings": {
-                "heading": "How Do I Wash and Care for Silk Products Properly?",
+                "heading": "3. How Do I Wash and Care for Silk Products Properly?",
                 "open_by_default": false,
                 "icon": "none",
                 "width": 20
@@ -222,7 +222,7 @@
               "type": "_accordion-row",
               "name": "t:names.accordion_dash_row",
               "settings": {
-                "heading": "Can Silk Be Washed in a Washing Machine?",
+                "heading": "4. Can Silk Be Washed in a Washing Machine?",
                 "open_by_default": false,
                 "icon": "none",
                 "width": 20
@@ -263,7 +263,7 @@
               "type": "_accordion-row",
               "name": "t:names.accordion_dash_row",
               "settings": {
-                "heading": "Is Silk Suitable for Sensitive Skin?",
+                "heading": "5. Is Silk Suitable for Sensitive Skin?",
                 "open_by_default": false,
                 "icon": "none",
                 "width": 20
@@ -304,7 +304,7 @@
               "type": "_accordion-row",
               "name": "t:names.accordion_dash_row",
               "settings": {
-                "heading": "Is Silk Suitable for All Seasons?",
+                "heading": "6. Is Silk Suitable for All Seasons?",
                 "open_by_default": false,
                 "icon": "none",
                 "width": 20
@@ -345,7 +345,7 @@
               "type": "_accordion-row",
               "name": "t:names.accordion_dash_row",
               "settings": {
-                "heading": "Which momme (mm) should I choose for a silk eye mask, and what’s the difference?",
+                "heading": "7. Which momme (mm) should I choose for a silk eye mask, and what’s the difference?",
                 "open_by_default": false,
                 "icon": "none",
                 "width": 20
@@ -386,7 +386,7 @@
               "type": "_accordion-row",
               "name": "t:names.accordion_dash_row",
               "settings": {
-                "heading": "Will a silk eye mask soak up my eye cream or skincare?",
+                "heading": "8. Will a silk eye mask soak up my eye cream or skincare?",
                 "open_by_default": false,
                 "icon": "none",
                 "width": 20
@@ -427,7 +427,7 @@
               "type": "_accordion-row",
               "name": "t:names.accordion_dash_row",
               "settings": {
-                "heading": "Will a silk eye mask damage my lashes or lash extensions?",
+                "heading": "9. Will a silk eye mask damage my lashes or lash extensions?",
                 "open_by_default": false,
                 "icon": "none",
                 "width": 20
@@ -463,6 +463,47 @@
               "block_order": [
                 "text_Pgiw8J"
               ]
+            },
+            "accordion_row_X3V7zB": {
+              "type": "_accordion-row",
+              "name": "t:names.accordion_dash_row",
+              "settings": {
+                "heading": "10. Will a silk eye mask feel too hot in summer or too cool in winter?",
+                "open_by_default": false,
+                "icon": "none",
+                "width": 20
+              },
+              "blocks": {
+                "text_WNgprc": {
+                  "type": "text",
+                  "name": "t:names.text",
+                  "settings": {
+                    "text": "<p>Mulberry silk is naturally thermoregulating—it helps release excess heat in warmer months and provides a light, comfortable warmth in cooler seasons.<br/>This keeps the eye area balanced and prevents the stuffy feeling some other fabrics cause.<br/>Most users find silk comfortable year-round with normal bedroom temperatures.</p>",
+                    "width": "fit-content",
+                    "max_width": "none",
+                    "alignment": "left",
+                    "type_preset": "rte",
+                    "font": "var(--font-body--family)",
+                    "font_size": "1rem",
+                    "line_height": "normal",
+                    "letter_spacing": "normal",
+                    "case": "none",
+                    "wrap": "pretty",
+                    "color": "var(--color-foreground)",
+                    "background": false,
+                    "background_color": "#00000026",
+                    "corner_radius": 0,
+                    "padding-block-start": 0,
+                    "padding-block-end": 0,
+                    "padding-inline-start": 20,
+                    "padding-inline-end": 20
+                  },
+                  "blocks": {}
+                }
+              },
+              "block_order": [
+                "text_WNgprc"
+              ]
             }
           },
           "block_order": [
@@ -474,7 +515,8 @@
             "accordion_row_FNpgC8",
             "accordion_row_6HPVTg",
             "accordion_row_Ne4kGX",
-            "accordion_row_MwCwnU"
+            "accordion_row_MwCwnU",
+            "accordion_row_X3V7zB"
           ]
         }
       },
