@@ -291,6 +291,10 @@
       data-testid="media-gallery-grid"
     >
       {% for media in sorted_media %}
+        <!-- Custom icon -->
+        <div class="custom-media-icon">
+          <img src="{{ 'your-icon.svg' | asset_url }}" alt="Icon" />
+        </div>
         <li
           ref="media[]"
           class="
