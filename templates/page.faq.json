@@ -341,6 +341,47 @@
                 "text_4fcqh6"
               ]
             },
+            "accordion_row_Ne4kGX": {
+              "type": "_accordion-row",
+              "name": "t:names.accordion_dash_row",
+              "settings": {
+                "heading": "Will a silk eye mask soak up my eye cream or skincare?",
+                "open_by_default": false,
+                "icon": "none",
+                "width": 20
+              },
+              "blocks": {
+                "text_YWGda8": {
+                  "type": "text",
+                  "name": "t:names.text",
+                  "settings": {
+                    "text": "<p>Silk absorbs far less product than cotton, so it helps your skincare stay on your skin instead of transferring to your mask.<br/>Its smooth surface also reduces tugging around the eye area.<br/>For best wear, let your eye cream settle for a couple of minutes and gently blot any excess before putting on the mask.</p>",
+                    "width": "fit-content",
+                    "max_width": "none",
+                    "alignment": "left",
+                    "type_preset": "rte",
+                    "font": "var(--font-body--family)",
+                    "font_size": "1rem",
+                    "line_height": "normal",
+                    "letter_spacing": "normal",
+                    "case": "none",
+                    "wrap": "pretty",
+                    "color": "var(--color-foreground)",
+                    "background": false,
+                    "background_color": "#00000026",
+                    "corner_radius": 0,
+                    "padding-block-start": 0,
+                    "padding-block-end": 0,
+                    "padding-inline-start": 20,
+                    "padding-inline-end": 20
+                  },
+                  "blocks": {}
+                }
+              },
+              "block_order": [
+                "text_YWGda8"
+              ]
+            },
             "accordion_row_6HPVTg": {
               "type": "_accordion-row",
               "name": "t:names.accordion_dash_row",
@@ -390,6 +431,7 @@
             "accordion_row_LX7rqx",
             "accordion_row_94QgFp",
             "accordion_row_FNpgC8",
+            "accordion_row_Ne4kGX",
             "accordion_row_6HPVTg"
           ]
         }
