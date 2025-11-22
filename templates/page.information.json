@@ -17,9 +17,9 @@
           "name": "t:names.heading",
           "settings": {
             "text": "<h2>Behind the Silk</h2>",
-            "width": "fit-content",
-            "max_width": "normal",
-            "alignment": "left",
+            "width": "100%",
+            "max_width": "none",
+            "alignment": "center",
             "type_preset": "rte",
             "font": "var(--font-body--family)",
             "font_size": "1rem",
