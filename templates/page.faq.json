@@ -1,1 +1,435 @@
-{"sections":{"main":{"type":"main-page","blocks":{"title":{"type":"text","name":"t:names.title","settings":{"text":"<h2>Frequently Asked Questions<\/h2>","width":"100%","max_width":"normal","alignment":"center","type_preset":"rte","font":"var(--font-primary--family)","font_size":"","line_height":"normal","letter_spacing":"normal","case":"none","wrap":"pretty","color":"","background":false,"background_color":"#00000026","corner_radius":0,"padding-block-start":0,"padding-block-end":0,"padding-inline-start":0,"padding-inline-end":0},"blocks":{}}},"block_order":["title"],"settings":{"content_direction":"column","gap":32,"color_scheme":"","padding-block-start":40,"padding-block-end":0}},"section_4JzUBE":{"type":"section","blocks":{"text_E7KFRC":{"type":"text","name":"t:names.heading","disabled":true,"settings":{"text":"<h3>Frequently asked questions<\/h3>","width":"fit-content","max_width":"narrow","alignment":"left","type_preset":"rte","font":"var(--font-body--family)","font_size":"1rem","line_height":"normal","letter_spacing":"normal","case":"none","wrap":"pretty","color":"var(--color-foreground)","background":false,"background_color":"#00000026","corner_radius":0,"padding-block-start":0,"padding-block-end":0,"padding-inline-start":0,"padding-inline-end":0},"blocks":{}},"accordion_fLiCEK":{"type":"accordion","name":"t:names.accordion","settings":{"icon":"caret","dividers":true,"type_preset":"h5","inherit_color_scheme":true,"color_scheme":"","border":"none","border_width":1,"border_opacity":100,"border_radius":0,"padding-block-start":0,"padding-block-end":0,"padding-inline-start":0,"padding-inline-end":0},"blocks":{"accordion_row_hy434N":{"type":"_accordion-row","settings":{"heading":"What Is Silk? What Makes It Unique?","open_by_default":false,"icon":"none","width":20},"blocks":{"text_LWD6Hy":{"type":"text","settings":{"text":"<p>Silk is a luxurious natural protein fiber extracted from silkworm cocoons. Known for its signature sheen, buttery softness, and excellent breathability, silk is one of the most precious natural fibers in the world. It contains 18 amino acids similar to those found in human skin, making it naturally hypoallergenic, skin-friendly, and antibacterial.<\/p>","width":"fit-content","max_width":"none","alignment":"left","type_preset":"rte","font":"var(--font-body--family)","font_size":"1rem","line_height":"normal","letter_spacing":"normal","case":"none","wrap":"pretty","color":"var(--color-foreground)","background":false,"background_color":"#00000026","corner_radius":0,"padding-block-start":0,"padding-block-end":0,"padding-inline-start":20,"padding-inline-end":20},"blocks":{}}},"block_order":["text_LWD6Hy"]},"accordion_row_KLT4zb":{"type":"_accordion-row","settings":{"heading":"What Are the Benefits of Silk Bedding for Sleep?","open_by_default":false,"icon":"none","width":20},"blocks":{"text_DX3zQk":{"type":"text","settings":{"text":"<p>Silk bedding can significantly improve sleep quality. Thanks to its natural temperature-regulating properties, silk keeps you cool in the summer and warm in the winter. Its smooth surface reduces friction, helping to prevent frizzy hair and facial creases overnight. It also helps regulate moisture, keeping skin hydrated—especially beneficial in dry winters like those in Toronto.<br\/>Silk pillowcases are particularly popular for reducing hair breakage and preserving hairstyles, making them a top choice for beauty sleep.<\/p>","width":"fit-content","max_width":"none","alignment":"left","type_preset":"rte","font":"var(--font-body--family)","font_size":"1rem","line_height":"normal","letter_spacing":"normal","case":"none","wrap":"pretty","color":"var(--color-foreground)","background":false,"background_color":"#00000026","corner_radius":0,"padding-block-start":0,"padding-block-end":0,"padding-inline-start":20,"padding-inline-end":20},"blocks":{}}},"block_order":["text_DX3zQk"]},"accordion_row_tGKpJT":{"type":"_accordion-row","name":"t:names.accordion_dash_row","settings":{"heading":"How Do I Wash and Care for Silk Products Properly?","open_by_default":false,"icon":"none","width":20},"blocks":{"text_h3nJDm":{"type":"text","name":"t:names.text","settings":{"text":"<p>Silk requires gentle care. Hand wash with cold water (below 30°C) using a neutral or silk-specific detergent. Avoid bleach or harsh cleaners. Gently agitate—never wring or twist. After rinsing, press out excess water with a towel and lay flat to dry in the shade. If ironing is needed, use low heat and place a cloth between the iron and silk.<\/p>","width":"fit-content","max_width":"none","alignment":"left","type_preset":"rte","font":"var(--font-body--family)","font_size":"1rem","line_height":"normal","letter_spacing":"normal","case":"none","wrap":"pretty","color":"var(--color-foreground)","background":false,"background_color":"#00000026","corner_radius":0,"padding-block-start":0,"padding-block-end":0,"padding-inline-start":20,"padding-inline-end":20},"blocks":{}}},"block_order":["text_h3nJDm"]},"accordion_row_LX7rqx":{"type":"_accordion-row","name":"t:names.accordion_dash_row","settings":{"heading":"Can Silk Be Washed in a Washing Machine?","open_by_default":false,"icon":"none","width":20},"blocks":{"text_PQjGKA":{"type":"text","name":"t:names.text","settings":{"text":"<p>Machine washing is not recommended, but if necessary, place the item in a mesh laundry bag, use a delicate cycle, and keep the water temperature below 30°C. Always use a mild detergent and never tumble dry. Air dry naturally. Machine washing may reduce the natural shine and softness of silk, so hand washing or dry cleaning is preferred for long-term care.<\/p>","width":"fit-content","max_width":"none","alignment":"left","type_preset":"rte","font":"var(--font-body--family)","font_size":"1rem","line_height":"normal","letter_spacing":"normal","case":"none","wrap":"pretty","color":"var(--color-foreground)","background":false,"background_color":"#00000026","corner_radius":0,"padding-block-start":0,"padding-block-end":0,"padding-inline-start":20,"padding-inline-end":20},"blocks":{}}},"block_order":["text_PQjGKA"]},"accordion_row_94QgFp":{"type":"_accordion-row","name":"t:names.accordion_dash_row","settings":{"heading":"Is Silk Suitable for Sensitive Skin?","open_by_default":false,"icon":"none","width":20},"blocks":{"text_9LML3d":{"type":"text","name":"t:names.text","settings":{"text":"<p>Absolutely. Silk is ideal for sensitive or reactive skin. As a natural protein fiber, it's biocompatible with human skin and highly breathable. Its ultra-smooth texture minimizes friction and irritation, while its antibacterial and antifungal properties support overall skin health. Many people with eczema, dermatitis, or other skin sensitivities in North America choose silk to soothe their skin and prevent flare-ups.<\/p>","width":"fit-content","max_width":"none","alignment":"left","type_preset":"rte","font":"var(--font-body--family)","font_size":"1rem","line_height":"normal","letter_spacing":"normal","case":"none","wrap":"pretty","color":"var(--color-foreground)","background":false,"background_color":"#00000026","corner_radius":0,"padding-block-start":0,"padding-block-end":0,"padding-inline-start":20,"padding-inline-end":20},"blocks":{}}},"block_order":["text_9LML3d"]},"accordion_row_FNpgC8":{"type":"_accordion-row","name":"t:names.accordion_dash_row","settings":{"heading":"Is Silk Suitable for All Seasons?","open_by_default":false,"icon":"none","width":20},"blocks":{"text_4fcqh6":{"type":"text","name":"t:names.text","settings":{"text":"<p>Yes—silk is a year-round fabric thanks to its natural thermoregulating ability. In summer: it's breathable, moisture-wicking, and keeps you cool. In winter: it retains warmth while remaining lightweight and soft. In transitional seasons: silk adapts to body and room temperature, offering balanced comfort. In a city like Toronto, where summers can be humid and winters are cold and dry, silk products adjust beautifully to the seasonal shifts, making them an essential for everyday comfort in the Canadian climate.<\/p>","width":"fit-content","max_width":"none","alignment":"left","type_preset":"rte","font":"var(--font-body--family)","font_size":"1rem","line_height":"normal","letter_spacing":"normal","case":"none","wrap":"pretty","color":"var(--color-foreground)","background":false,"background_color":"#00000026","corner_radius":0,"padding-block-start":0,"padding-block-end":0,"padding-inline-start":20,"padding-inline-end":20},"blocks":{}}},"block_order":["text_4fcqh6"]}},"block_order":["accordion_row_hy434N","accordion_row_KLT4zb","accordion_row_tGKpJT","accordion_row_LX7rqx","accordion_row_94QgFp","accordion_row_FNpgC8"]}},"block_order":["text_E7KFRC","accordion_fLiCEK"],"name":"t:names.faq_section","settings":{"content_direction":"column","vertical_on_mobile":true,"horizontal_alignment":"flex-start","vertical_alignment":"center","align_baseline":false,"horizontal_alignment_flex_direction_column":"flex-start","vertical_alignment_flex_direction_column":"center","gap":32,"section_width":"page-width","section_height":"","section_height_custom":50,"color_scheme":"","background_media":"none","video_position":"cover","background_image_position":"cover","border":"none","border_width":1,"border_opacity":100,"border_radius":0,"toggle_overlay":false,"overlay_color":"#00000026","overlay_style":"solid","gradient_direction":"to top","padding-block-start":48,"padding-block-end":48}}},"order":["main","section_4JzUBE"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "blocks": {
+        "title": {
+          "type": "text",
+          "name": "t:names.title",
+          "settings": {
+            "text": "<h2>Frequently Asked Questions</h2>",
+            "width": "100%",
+            "max_width": "normal",
+            "alignment": "center",
+            "type_preset": "rte",
+            "font": "var(--font-primary--family)",
+            "font_size": "",
+            "line_height": "normal",
+            "letter_spacing": "normal",
+            "case": "none",
+            "wrap": "pretty",
+            "color": "",
+            "background": false,
+            "background_color": "#00000026",
+            "corner_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "title"
+      ],
+      "settings": {
+        "content_direction": "column",
+        "gap": 32,
+        "color_scheme": "",
+        "padding-block-start": 40,
+        "padding-block-end": 0
+      }
+    },
+    "section_4JzUBE": {
+      "type": "section",
+      "blocks": {
+        "text_E7KFRC": {
+          "type": "text",
+          "name": "t:names.heading",
+          "disabled": true,
+          "settings": {
+            "text": "<h3>Frequently asked questions</h3>",
+            "width": "fit-content",
+            "max_width": "narrow",
+            "alignment": "left",
+            "type_preset": "rte",
+            "font": "var(--font-body--family)",
+            "font_size": "1rem",
+            "line_height": "normal",
+            "letter_spacing": "normal",
+            "case": "none",
+            "wrap": "pretty",
+            "color": "var(--color-foreground)",
+            "background": false,
+            "background_color": "#00000026",
+            "corner_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
+        },
+        "accordion_fLiCEK": {
+          "type": "accordion",
+          "name": "t:names.accordion",
+          "settings": {
+            "icon": "caret",
+            "dividers": true,
+            "type_preset": "h5",
+            "inherit_color_scheme": true,
+            "color_scheme": "",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "accordion_row_hy434N": {
+              "type": "_accordion-row",
+              "settings": {
+                "heading": "What Is Silk? What Makes It Unique?",
+                "open_by_default": false,
+                "icon": "none",
+                "width": 20
+              },
+              "blocks": {
+                "text_LWD6Hy": {
+                  "type": "text",
+                  "settings": {
+                    "text": "<p>Silk is a luxurious natural protein fiber extracted from silkworm cocoons. Known for its signature sheen, buttery softness, and excellent breathability, silk is one of the most precious natural fibers in the world. It contains 18 amino acids similar to those found in human skin, making it naturally hypoallergenic, skin-friendly, and antibacterial.</p>",
+                    "width": "fit-content",
+                    "max_width": "none",
+                    "alignment": "left",
+                    "type_preset": "rte",
+                    "font": "var(--font-body--family)",
+                    "font_size": "1rem",
+                    "line_height": "normal",
+                    "letter_spacing": "normal",
+                    "case": "none",
+                    "wrap": "pretty",
+                    "color": "var(--color-foreground)",
+                    "background": false,
+                    "background_color": "#00000026",
+                    "corner_radius": 0,
+                    "padding-block-start": 0,
+                    "padding-block-end": 0,
+                    "padding-inline-start": 20,
+                    "padding-inline-end": 20
+                  },
+                  "blocks": {}
+                }
+              },
+              "block_order": [
+                "text_LWD6Hy"
+              ]
+            },
+            "accordion_row_KLT4zb": {
+              "type": "_accordion-row",
+              "settings": {
+                "heading": "What Are the Benefits of Silk Bedding for Sleep?",
+                "open_by_default": false,
+                "icon": "none",
+                "width": 20
+              },
+              "blocks": {
+                "text_DX3zQk": {
+                  "type": "text",
+                  "settings": {
+                    "text": "<p>Silk bedding can significantly improve sleep quality. Thanks to its natural temperature-regulating properties, silk keeps you cool in the summer and warm in the winter. Its smooth surface reduces friction, helping to prevent frizzy hair and facial creases overnight. It also helps regulate moisture, keeping skin hydrated—especially beneficial in dry winters like those in Toronto.<br/>Silk pillowcases are particularly popular for reducing hair breakage and preserving hairstyles, making them a top choice for beauty sleep.</p>",
+                    "width": "fit-content",
+                    "max_width": "none",
+                    "alignment": "left",
+                    "type_preset": "rte",
+                    "font": "var(--font-body--family)",
+                    "font_size": "1rem",
+                    "line_height": "normal",
+                    "letter_spacing": "normal",
+                    "case": "none",
+                    "wrap": "pretty",
+                    "color": "var(--color-foreground)",
+                    "background": false,
+                    "background_color": "#00000026",
+                    "corner_radius": 0,
+                    "padding-block-start": 0,
+                    "padding-block-end": 0,
+                    "padding-inline-start": 20,
+                    "padding-inline-end": 20
+                  },
+                  "blocks": {}
+                }
+              },
+              "block_order": [
+                "text_DX3zQk"
+              ]
+            },
+            "accordion_row_tGKpJT": {
+              "type": "_accordion-row",
+              "name": "t:names.accordion_dash_row",
+              "settings": {
+                "heading": "How Do I Wash and Care for Silk Products Properly?",
+                "open_by_default": false,
+                "icon": "none",
+                "width": 20
+              },
+              "blocks": {
+                "text_h3nJDm": {
+                  "type": "text",
+                  "name": "t:names.text",
+                  "settings": {
+                    "text": "<p>Silk requires gentle care. Hand wash with cold water (below 30°C) using a neutral or silk-specific detergent. Avoid bleach or harsh cleaners. Gently agitate—never wring or twist. After rinsing, press out excess water with a towel and lay flat to dry in the shade. If ironing is needed, use low heat and place a cloth between the iron and silk.</p>",
+                    "width": "fit-content",
+                    "max_width": "none",
+                    "alignment": "left",
+                    "type_preset": "rte",
+                    "font": "var(--font-body--family)",
+                    "font_size": "1rem",
+                    "line_height": "normal",
+                    "letter_spacing": "normal",
+                    "case": "none",
+                    "wrap": "pretty",
+                    "color": "var(--color-foreground)",
+                    "background": false,
+                    "background_color": "#00000026",
+                    "corner_radius": 0,
+                    "padding-block-start": 0,
+                    "padding-block-end": 0,
+                    "padding-inline-start": 20,
+                    "padding-inline-end": 20
+                  },
+                  "blocks": {}
+                }
+              },
+              "block_order": [
+                "text_h3nJDm"
+              ]
+            },
+            "accordion_row_LX7rqx": {
+              "type": "_accordion-row",
+              "name": "t:names.accordion_dash_row",
+              "settings": {
+                "heading": "Can Silk Be Washed in a Washing Machine?",
+                "open_by_default": false,
+                "icon": "none",
+                "width": 20
+              },
+              "blocks": {
+                "text_PQjGKA": {
+                  "type": "text",
+                  "name": "t:names.text",
+                  "settings": {
+                    "text": "<p>Machine washing is not recommended, but if necessary, place the item in a mesh laundry bag, use a delicate cycle, and keep the water temperature below 30°C. Always use a mild detergent and never tumble dry. Air dry naturally. Machine washing may reduce the natural shine and softness of silk, so hand washing or dry cleaning is preferred for long-term care.</p>",
+                    "width": "fit-content",
+                    "max_width": "none",
+                    "alignment": "left",
+                    "type_preset": "rte",
+                    "font": "var(--font-body--family)",
+                    "font_size": "1rem",
+                    "line_height": "normal",
+                    "letter_spacing": "normal",
+                    "case": "none",
+                    "wrap": "pretty",
+                    "color": "var(--color-foreground)",
+                    "background": false,
+                    "background_color": "#00000026",
+                    "corner_radius": 0,
+                    "padding-block-start": 0,
+                    "padding-block-end": 0,
+                    "padding-inline-start": 20,
+                    "padding-inline-end": 20
+                  },
+                  "blocks": {}
+                }
+              },
+              "block_order": [
+                "text_PQjGKA"
+              ]
+            },
+            "accordion_row_94QgFp": {
+              "type": "_accordion-row",
+              "name": "t:names.accordion_dash_row",
+              "settings": {
+                "heading": "Is Silk Suitable for Sensitive Skin?",
+                "open_by_default": false,
+                "icon": "none",
+                "width": 20
+              },
+              "blocks": {
+                "text_9LML3d": {
+                  "type": "text",
+                  "name": "t:names.text",
+                  "settings": {
+                    "text": "<p>Absolutely. Silk is ideal for sensitive or reactive skin. As a natural protein fiber, it's biocompatible with human skin and highly breathable. Its ultra-smooth texture minimizes friction and irritation, while its antibacterial and antifungal properties support overall skin health. Many people with eczema, dermatitis, or other skin sensitivities in North America choose silk to soothe their skin and prevent flare-ups.</p>",
+                    "width": "fit-content",
+                    "max_width": "none",
+                    "alignment": "left",
+                    "type_preset": "rte",
+                    "font": "var(--font-body--family)",
+                    "font_size": "1rem",
+                    "line_height": "normal",
+                    "letter_spacing": "normal",
+                    "case": "none",
+                    "wrap": "pretty",
+                    "color": "var(--color-foreground)",
+                    "background": false,
+                    "background_color": "#00000026",
+                    "corner_radius": 0,
+                    "padding-block-start": 0,
+                    "padding-block-end": 0,
+                    "padding-inline-start": 20,
+                    "padding-inline-end": 20
+                  },
+                  "blocks": {}
+                }
+              },
+              "block_order": [
+                "text_9LML3d"
+              ]
+            },
+            "accordion_row_FNpgC8": {
+              "type": "_accordion-row",
+              "name": "t:names.accordion_dash_row",
+              "settings": {
+                "heading": "Is Silk Suitable for All Seasons?",
+                "open_by_default": false,
+                "icon": "none",
+                "width": 20
+              },
+              "blocks": {
+                "text_4fcqh6": {
+                  "type": "text",
+                  "name": "t:names.text",
+                  "settings": {
+                    "text": "<p>Yes—silk is a year-round fabric thanks to its natural thermoregulating ability. In summer: it's breathable, moisture-wicking, and keeps you cool. In winter: it retains warmth while remaining lightweight and soft. In transitional seasons: silk adapts to body and room temperature, offering balanced comfort. In a city like Toronto, where summers can be humid and winters are cold and dry, silk products adjust beautifully to the seasonal shifts, making them an essential for everyday comfort in the Canadian climate.</p>",
+                    "width": "fit-content",
+                    "max_width": "none",
+                    "alignment": "left",
+                    "type_preset": "rte",
+                    "font": "var(--font-body--family)",
+                    "font_size": "1rem",
+                    "line_height": "normal",
+                    "letter_spacing": "normal",
+                    "case": "none",
+                    "wrap": "pretty",
+                    "color": "var(--color-foreground)",
+                    "background": false,
+                    "background_color": "#00000026",
+                    "corner_radius": 0,
+                    "padding-block-start": 0,
+                    "padding-block-end": 0,
+                    "padding-inline-start": 20,
+                    "padding-inline-end": 20
+                  },
+                  "blocks": {}
+                }
+              },
+              "block_order": [
+                "text_4fcqh6"
+              ]
+            },
+            "accordion_row_6HPVTg": {
+              "type": "_accordion-row",
+              "name": "t:names.accordion_dash_row",
+              "settings": {
+                "heading": "Which momme (mm) should I choose for a silk eye mask, and what’s the difference?",
+                "open_by_default": false,
+                "icon": "none",
+                "width": 20
+              },
+              "blocks": {
+                "text_UpFPMd": {
+                  "type": "text",
+                  "name": "t:names.text",
+                  "settings": {
+                    "text": "<p>Momme (mm) measures the weight and density of silk—similar to thread count, but more accurate.<br/>Lower momme (16–19 mm) feels very light and fluid, while mid-range 19–22 mm offers the ideal balance of softness, durability, and light-blocking for daily use.<br/>Higher momme (24–25 mm) feels more substantial and luxurious, though some may find it slightly warmer or heavier.<br/>If you’re unsure, 19-22 mm is the most universally comfortable and premium choice for an eye mask.</p>",
+                    "width": "fit-content",
+                    "max_width": "none",
+                    "alignment": "left",
+                    "type_preset": "rte",
+                    "font": "var(--font-body--family)",
+                    "font_size": "1rem",
+                    "line_height": "normal",
+                    "letter_spacing": "normal",
+                    "case": "none",
+                    "wrap": "pretty",
+                    "color": "var(--color-foreground)",
+                    "background": false,
+                    "background_color": "#00000026",
+                    "corner_radius": 0,
+                    "padding-block-start": 0,
+                    "padding-block-end": 0,
+                    "padding-inline-start": 20,
+                    "padding-inline-end": 20
+                  },
+                  "blocks": {}
+                }
+              },
+              "block_order": [
+                "text_UpFPMd"
+              ]
+            }
+          },
+          "block_order": [
+            "accordion_row_hy434N",
+            "accordion_row_KLT4zb",
+            "accordion_row_tGKpJT",
+            "accordion_row_LX7rqx",
+            "accordion_row_94QgFp",
+            "accordion_row_FNpgC8",
+            "accordion_row_6HPVTg"
+          ]
+        }
+      },
+      "block_order": [
+        "text_E7KFRC",
+        "accordion_fLiCEK"
+      ],
+      "name": "t:names.faq_section",
+      "settings": {
+        "content_direction": "column",
+        "vertical_on_mobile": true,
+        "horizontal_alignment": "flex-start",
+        "vertical_alignment": "center",
+        "align_baseline": false,
+        "horizontal_alignment_flex_direction_column": "flex-start",
+        "vertical_alignment_flex_direction_column": "center",
+        "gap": 32,
+        "section_width": "page-width",
+        "section_height": "",
+        "section_height_custom": 50,
+        "color_scheme": "",
+        "background_media": "none",
+        "video_position": "cover",
+        "background_image_position": "cover",
+        "border": "none",
+        "border_width": 1,
+        "border_opacity": 100,
+        "border_radius": 0,
+        "toggle_overlay": false,
+        "overlay_color": "#00000026",
+        "overlay_style": "solid",
+        "gradient_direction": "to top",
+        "padding-block-start": 48,
+        "padding-block-end": 48
+      }
+    }
+  },
+  "order": [
+    "main",
+    "section_4JzUBE"
+  ]
+}
