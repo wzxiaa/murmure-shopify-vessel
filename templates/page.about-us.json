@@ -57,8 +57,8 @@
               "settings": {
                 "inverse": false,
                 "font": "heading",
-                "unit": "pixel",
-                "percent_width": 100,
+                "unit": "percent",
+                "percent_width": 10,
                 "pixel_height": 48,
                 "custom_mobile_size": false,
                 "unit_mobile": "percent",
@@ -138,121 +138,10 @@
             "padding-inline-end": 0
           },
           "blocks": {}
-        },
-        "group_6twnnp": {
-          "type": "group",
-          "settings": {
-            "link": "",
-            "open_in_new_tab": false,
-            "content_direction": "column",
-            "vertical_on_mobile": true,
-            "horizontal_alignment": "flex-start",
-            "vertical_alignment": "center",
-            "align_baseline": false,
-            "horizontal_alignment_flex_direction_column": "flex-start",
-            "vertical_alignment_flex_direction_column": "center",
-            "gap": 12,
-            "width": "custom",
-            "custom_width": 100,
-            "width_mobile": "fill",
-            "custom_width_mobile": 100,
-            "height": "fit",
-            "custom_height": 100,
-            "inherit_color_scheme": true,
-            "color_scheme": "",
-            "background_media": "none",
-            "video_position": "cover",
-            "background_image_position": "cover",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_radius": 0,
-            "toggle_overlay": false,
-            "overlay_color": "#00000026",
-            "overlay_style": "solid",
-            "gradient_direction": "to top",
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {
-            "text_aYkecy": {
-              "type": "text",
-              "name": "t:names.heading",
-              "settings": {
-                "text": "<h2>Our signature product.</h2>",
-                "width": "fit-content",
-                "max_width": "normal",
-                "alignment": "left",
-                "type_preset": "h3",
-                "font": "var(--font-body--family)",
-                "font_size": "1rem",
-                "line_height": "normal",
-                "letter_spacing": "normal",
-                "case": "none",
-                "wrap": "pretty",
-                "color": "var(--color-foreground)",
-                "background": false,
-                "background_color": "#00000026",
-                "corner_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            },
-            "text_V69n3a": {
-              "type": "text",
-              "settings": {
-                "text": "<p>Made with care and unconditionally loved by our customers, this signature bestseller exceeds all expectations.</p>",
-                "width": "fit-content",
-                "max_width": "narrow",
-                "alignment": "left",
-                "type_preset": "rte",
-                "font": "var(--font-body--family)",
-                "font_size": "1rem",
-                "line_height": "normal",
-                "letter_spacing": "normal",
-                "case": "none",
-                "wrap": "pretty",
-                "color": "var(--color-foreground)",
-                "background": false,
-                "background_color": "#00000026",
-                "corner_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            },
-            "button_6Q8q83": {
-              "type": "button",
-              "settings": {
-                "label": "Shop now",
-                "link": "shopify://collections/all",
-                "open_in_new_tab": false,
-                "style_class": "button",
-                "width": "fit-content",
-                "custom_width": 100,
-                "width_mobile": "fit-content",
-                "custom_width_mobile": 100
-              },
-              "blocks": {}
-            }
-          },
-          "block_order": [
-            "text_aYkecy",
-            "text_V69n3a",
-            "button_6Q8q83"
-          ]
         }
       },
       "block_order": [
-        "image_mqbMLz",
-        "group_6twnnp"
+        "image_mqbMLz"
       ],
       "name": "t:names.image_with_text",
       "settings": {
@@ -321,11 +210,79 @@
         "padding-block-start": 0,
         "padding-block-end": 0
       }
+    },
+    "sp_reveal_PrJPKD": {
+      "type": "sp-reveal",
+      "blocks": {
+        "text_iXTLbU": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras convallis dui vel massa efficitur accumsan. Morbi lacus dui, pellentesque sit amet molestie et, vulputate eu lacus. Proin a turpis luctus turpis pulvinar mollis. Sed feugiat accumsan diam, in imperdiet risus suscipit quis. Curabitur eget lorem mauris. Nunc aliquet eu arcu quis efficitur. Maecenas sit amet nulla arcu. Mauris sit amet neque quis dui varius feugiat. Nulla laoreet quam eu nulla efficitur, ut interdum arcu convallis. Curabitur sed imperdiet dui.</p>"
+          }
+        },
+        "text_LciRBY": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras convallis dui vel massa efficitur accumsan. Morbi lacus dui, pellentesque sit amet molestie et, vulputate eu lacus. Proin a turpis luctus turpis pulvinar mollis. Sed feugiat accumsan diam, in imperdiet risus suscipit quis. Curabitur eget lorem mauris. Nunc aliquet eu arcu quis efficitur. Maecenas sit amet nulla arcu. Mauris sit amet neque quis dui varius feugiat. Nulla laoreet quam eu nulla efficitur, ut interdum arcu convallis. Curabitur sed imperdiet dui.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_iXTLbU",
+        "text_LciRBY"
+      ],
+      "name": "🚀 Reveal",
+      "settings": {
+        "override_fonts": false,
+        "headline_font": "system_ui_n4",
+        "text_font": "system_ui_n4",
+        "override_text_sizes": false,
+        "text_size": 15,
+        "mobile_text_size": 15,
+        "text_line_height": "inherit",
+        "headline_size": 40,
+        "mobile_headline_size": 40,
+        "headline_line_height": "inherit",
+        "override_text_colors": false,
+        "text_color": "#111",
+        "link_color": "#005bd3",
+        "show_on_device": "all",
+        "section_background_color": "linear-gradient(127deg, rgba(241, 246, 251, 1) 11%, rgba(241, 246, 251, 1) 81%)",
+        "section_background_image_color": "",
+        "section_background_size": "cover",
+        "mobile_section_background_image_color": "",
+        "mobile_section_background_size": "cover",
+        "section_padding_top_bottom": 25,
+        "mobile_section_padding_top_bottom": 25,
+        "section_padding_left_right": 25,
+        "mobile_section_padding_left_right": 25,
+        "container_background_color": "",
+        "container_max_width": 1000,
+        "container_padding_top_bottom": 10,
+        "mobile_container_padding_top_bottom": 10,
+        "container_padding_left_right": 10,
+        "mobile_container_padding_left_right": 10,
+        "element_spacing": 15,
+        "container_radius": 0,
+        "container_shadow": false,
+        "container_border_size": 0,
+        "container_border_color": "#888",
+        "height": 150,
+        "grid_gap": 25,
+        "button_background_color": "linear-gradient(0deg, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0.75) 100%)",
+        "button_text_color": "#111",
+        "button_padding_tb": 10,
+        "button_padding_lr": 25,
+        "button_border_radius": 5,
+        "show_more": "<b>Show More</b>",
+        "show_less": "<b>Show Less</b>"
+      }
     }
   },
   "order": [
     "main",
     "section_KWVzbK",
-    "1763439421569a0ffe"
+    "1763439421569a0ffe",
+    "sp_reveal_PrJPKD"
   ]
 }
