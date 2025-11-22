@@ -305,9 +305,6 @@
             data-view-transition-type="product-image-transition"
           {% endif %}
         >
-          <div class="custom-media-icon">
-            <img src="{{ 'OEKO.jpg' | asset_url }}" alt="Icon" />
-          </div>
           {%- if block.settings.zoom and media.media_type == 'image' -%}
             <button
               type="button"
@@ -325,6 +322,9 @@
               assign media_sizes = sizes
             endif
           -%}
+          <div class="custom-media-icon">
+            <img src="{{ 'OEKO.jpg' | asset_url }}" alt="Icon" />
+          </div>
           {%- render 'product-media', media: media, sizes: media_sizes, is_main_product_media: forloop.first -%}
         </li>
       {% endfor %}
