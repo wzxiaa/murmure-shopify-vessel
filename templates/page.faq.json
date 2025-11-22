@@ -504,6 +504,47 @@
               "block_order": [
                 "text_WNgprc"
               ]
+            },
+            "accordion_row_6H6TDz": {
+              "type": "_accordion-row",
+              "name": "t:names.accordion_dash_row",
+              "settings": {
+                "heading": "11. Is a silk eye mask suitable for sensitive or acne-prone skin?",
+                "open_by_default": false,
+                "icon": "none",
+                "width": 20
+              },
+              "blocks": {
+                "text_Q7trpe": {
+                  "type": "text",
+                  "name": "t:names.text",
+                  "settings": {
+                    "text": "<p>Silk is smooth, hypoallergenic, and gentle on reactive skin, helping reduce friction-related irritation around the eyes.<br/>It doesn’t trap more bacteria than other fabrics, but regular gentle washing keeps the mask clean and skin-friendly.<br/>A mild, pH-neutral detergent and air-drying are ideal for maintaining the fabric’s softness.</p>",
+                    "width": "fit-content",
+                    "max_width": "none",
+                    "alignment": "left",
+                    "type_preset": "rte",
+                    "font": "var(--font-body--family)",
+                    "font_size": "1rem",
+                    "line_height": "normal",
+                    "letter_spacing": "normal",
+                    "case": "none",
+                    "wrap": "pretty",
+                    "color": "var(--color-foreground)",
+                    "background": false,
+                    "background_color": "#00000026",
+                    "corner_radius": 0,
+                    "padding-block-start": 0,
+                    "padding-block-end": 0,
+                    "padding-inline-start": 20,
+                    "padding-inline-end": 20
+                  },
+                  "blocks": {}
+                }
+              },
+              "block_order": [
+                "text_Q7trpe"
+              ]
             }
           },
           "block_order": [
@@ -516,7 +557,8 @@
             "accordion_row_6HPVTg",
             "accordion_row_Ne4kGX",
             "accordion_row_MwCwnU",
-            "accordion_row_X3V7zB"
+            "accordion_row_X3V7zB",
+            "accordion_row_6H6TDz"
           ]
         }
       },
