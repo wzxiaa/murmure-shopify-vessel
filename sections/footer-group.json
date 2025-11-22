@@ -159,7 +159,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>Sign up for news letter</p>",
+                    "text": "<p>Sign up for newsletter</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
