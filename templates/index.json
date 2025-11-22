@@ -166,16 +166,17 @@
     "section_iBTpjC": {
       "type": "section",
       "blocks": {
-        "text_e7gXJJ": {
+        "text_8BW68j": {
           "type": "text",
+          "name": "t:names.text",
           "settings": {
             "text": "{{ metaobjects.home_page_slogan[\"home-page-slogan-bbcibrl7\"].home_page_slogen | metafield_tag }}",
             "width": "100%",
             "max_width": "none",
             "alignment": "center",
-            "type_preset": "custom",
-            "font": "var(--font-heading--family)",
-            "font_size": "1.25rem",
+            "type_preset": "rte",
+            "font": "var(--font-body--family)",
+            "font_size": "1rem",
             "line_height": "normal",
             "letter_spacing": "normal",
             "case": "none",
@@ -207,7 +208,7 @@
         }
       },
       "block_order": [
-        "text_e7gXJJ",
+        "text_8BW68j",
         "button_tLADxb"
       ],
       "name": "t:names.pull_quote",
