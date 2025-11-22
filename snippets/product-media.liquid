@@ -20,6 +20,11 @@
   assign widths = widths | default: '400, 800, 1200, 1600, 2000'
 %}
 
+<!-- ⭐ Custom icon always visible on top of media ⭐ -->
+  <div class="custom-media-icon">
+    <img src="{{ 'OEKO.jpg' | asset_url }}" alt="Icon" />
+  </div>
+
 <div
   class="product-media"
   style="--ratio: {{ media.aspect_ratio }}"
@@ -53,9 +58,6 @@
           class="product-model-wrapper"
           data-media-id="{{ media.id }}"
         >
-        <div class="custom-media-icon">
-            <img src="{{ 'OEKO.jpg' | asset_url }}" alt="Icon" />
-        </div>
           <button
             class="button deferred-media__poster-button button-unstyled"
             ref="deferredMediaPlayButton"
