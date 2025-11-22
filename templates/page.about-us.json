@@ -12,6 +12,56 @@
     "main": {
       "type": "main-page",
       "blocks": {
+        "ai_gen_block_8273bd0_Pj9G7X": {
+          "type": "ai_gen_block_8273bd0",
+          "settings": {
+            "title": "Our Journey",
+            "description": "Explore our story through time",
+            "title_size": 32,
+            "description_size": 16,
+            "item_width": 300,
+            "item_gap": 30,
+            "line_thickness": 2,
+            "line_color": "#e6e6e6",
+            "dot_size": 16,
+            "dot_border_width": 2,
+            "dot_spacing": 20,
+            "dot_color": "#ffffff",
+            "dot_border_color": "#000000",
+            "card_background": "#ffffff",
+            "card_border_radius": 8,
+            "image_height": 180,
+            "image_border_radius": 4,
+            "date_size": 12,
+            "item_title_size": 18,
+            "item_text_size": 14,
+            "background_color": "#f9f8f6",
+            "text_color": "#000000",
+            "date_color": "#666666",
+            "scrollbar_color": "#cccccc",
+            "scrollbar_hover_color": "#999999",
+            "scrollbar_track_color": "#f0f0f0",
+            "item_1_date": "2020",
+            "item_1_title": "The Beginning",
+            "item_1_text": "Our journey started with a simple idea and a passion for excellence.",
+            "item_2_date": "2021",
+            "item_2_title": "First Milestone",
+            "item_2_text": "We reached our first major milestone and expanded our team.",
+            "item_3_date": "2022",
+            "item_3_title": "Growth Phase",
+            "item_3_text": "Rapid growth and expansion into new markets.",
+            "item_4_date": "2023",
+            "item_4_title": "Innovation",
+            "item_4_text": "Launched innovative products that changed the industry.",
+            "item_5_date": "2024",
+            "item_5_title": "Global Reach",
+            "item_5_text": "Expanded our presence to serve customers worldwide.",
+            "item_6_date": "2025",
+            "item_6_title": "The Future",
+            "item_6_text": "Continuing to innovate and shape the future of our industry."
+          },
+          "blocks": {}
+        },
         "group_QNE9Wr": {
           "type": "group",
           "name": "t:names.group",
@@ -104,6 +154,7 @@
         }
       },
       "block_order": [
+        "ai_gen_block_8273bd0_Pj9G7X",
         "group_QNE9Wr",
         "text_KMwtTr"
       ],
@@ -114,175 +165,9 @@
         "padding-block-start": 40,
         "padding-block-end": 80
       }
-    },
-    "section_KWVzbK": {
-      "type": "section",
-      "blocks": {
-        "image_mqbMLz": {
-          "type": "image",
-          "settings": {
-            "link": "",
-            "image_ratio": "square",
-            "width": "fill",
-            "custom_width": 100,
-            "width_mobile": "fill",
-            "custom_width_mobile": 100,
-            "height": "fit",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_radius": 0,
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {}
-        }
-      },
-      "block_order": [
-        "image_mqbMLz"
-      ],
-      "name": "t:names.image_with_text",
-      "settings": {
-        "content_direction": "row",
-        "vertical_on_mobile": true,
-        "horizontal_alignment": "flex-start",
-        "vertical_alignment": "center",
-        "align_baseline": false,
-        "horizontal_alignment_flex_direction_column": "flex-start",
-        "vertical_alignment_flex_direction_column": "center",
-        "gap": 32,
-        "section_width": "page-width",
-        "section_height": "",
-        "section_height_custom": 50,
-        "color_scheme": "",
-        "background_media": "none",
-        "video_position": "cover",
-        "background_image_position": "cover",
-        "border": "none",
-        "border_width": 1,
-        "border_opacity": 100,
-        "border_radius": 0,
-        "toggle_overlay": false,
-        "overlay_color": "#00000026",
-        "overlay_style": "solid",
-        "gradient_direction": "to top",
-        "padding-block-start": 40,
-        "padding-block-end": 40
-      }
-    },
-    "1763439421569a0ffe": {
-      "type": "_blocks",
-      "blocks": {
-        "shop_shop_login_button_app_block_r73XMh": {
-          "type": "shopify://apps/shop/blocks/shop-login-button-app-block/7cab7c4a-1dfc-4b7e-8e53-31f104f2fa4e",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "shop_shop_login_button_app_block_r73XMh"
-      ],
-      "settings": {
-        "content_direction": "column",
-        "vertical_on_mobile": true,
-        "horizontal_alignment": "flex-start",
-        "vertical_alignment": "center",
-        "align_baseline": false,
-        "horizontal_alignment_flex_direction_column": "flex-start",
-        "vertical_alignment_flex_direction_column": "center",
-        "gap": 12,
-        "section_width": "page-width",
-        "section_height": "",
-        "section_height_custom": 50,
-        "color_scheme": "",
-        "background_media": "none",
-        "video_position": "cover",
-        "background_image_position": "cover",
-        "border": "none",
-        "border_width": 1,
-        "border_opacity": 100,
-        "border_radius": 0,
-        "toggle_overlay": false,
-        "overlay_color": "#00000026",
-        "overlay_style": "solid",
-        "gradient_direction": "to top",
-        "padding-block-start": 0,
-        "padding-block-end": 0
-      }
-    },
-    "sp_reveal_PrJPKD": {
-      "type": "sp-reveal",
-      "blocks": {
-        "text_iXTLbU": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras convallis dui vel massa efficitur accumsan. Morbi lacus dui, pellentesque sit amet molestie et, vulputate eu lacus. Proin a turpis luctus turpis pulvinar mollis. Sed feugiat accumsan diam, in imperdiet risus suscipit quis. Curabitur eget lorem mauris. Nunc aliquet eu arcu quis efficitur. Maecenas sit amet nulla arcu. Mauris sit amet neque quis dui varius feugiat. Nulla laoreet quam eu nulla efficitur, ut interdum arcu convallis. Curabitur sed imperdiet dui.</p>"
-          }
-        },
-        "text_LciRBY": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras convallis dui vel massa efficitur accumsan. Morbi lacus dui, pellentesque sit amet molestie et, vulputate eu lacus. Proin a turpis luctus turpis pulvinar mollis. Sed feugiat accumsan diam, in imperdiet risus suscipit quis. Curabitur eget lorem mauris. Nunc aliquet eu arcu quis efficitur. Maecenas sit amet nulla arcu. Mauris sit amet neque quis dui varius feugiat. Nulla laoreet quam eu nulla efficitur, ut interdum arcu convallis. Curabitur sed imperdiet dui.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "text_iXTLbU",
-        "text_LciRBY"
-      ],
-      "name": "🚀 Reveal",
-      "settings": {
-        "override_fonts": false,
-        "headline_font": "system_ui_n4",
-        "text_font": "system_ui_n4",
-        "override_text_sizes": false,
-        "text_size": 15,
-        "mobile_text_size": 15,
-        "text_line_height": "inherit",
-        "headline_size": 40,
-        "mobile_headline_size": 40,
-        "headline_line_height": "inherit",
-        "override_text_colors": false,
-        "text_color": "#111",
-        "link_color": "#005bd3",
-        "show_on_device": "all",
-        "section_background_color": "linear-gradient(127deg, rgba(241, 246, 251, 1) 11%, rgba(241, 246, 251, 1) 81%)",
-        "section_background_image_color": "",
-        "section_background_size": "cover",
-        "mobile_section_background_image_color": "",
-        "mobile_section_background_size": "cover",
-        "section_padding_top_bottom": 25,
-        "mobile_section_padding_top_bottom": 25,
-        "section_padding_left_right": 25,
-        "mobile_section_padding_left_right": 25,
-        "container_background_color": "",
-        "container_max_width": 1000,
-        "container_padding_top_bottom": 10,
-        "mobile_container_padding_top_bottom": 10,
-        "container_padding_left_right": 10,
-        "mobile_container_padding_left_right": 10,
-        "element_spacing": 15,
-        "container_radius": 0,
-        "container_shadow": false,
-        "container_border_size": 0,
-        "container_border_color": "#888",
-        "height": 150,
-        "grid_gap": 25,
-        "button_background_color": "linear-gradient(0deg, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0.75) 100%)",
-        "button_text_color": "#111",
-        "button_padding_tb": 10,
-        "button_padding_lr": 25,
-        "button_border_radius": 5,
-        "show_more": "<b>Show More</b>",
-        "show_less": "<b>Show Less</b>"
-      }
     }
   },
   "order": [
-    "main",
-    "section_KWVzbK",
-    "1763439421569a0ffe",
-    "sp_reveal_PrJPKD"
+    "main"
   ]
 }

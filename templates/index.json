@@ -112,7 +112,7 @@
               "type": "button",
               "settings": {
                 "label": "About us",
-                "link": "shopify://collections/all",
+                "link": "shopify://pages/about-us",
                 "open_in_new_tab": false,
                 "style_class": "button",
                 "width": "fit-content",
@@ -169,14 +169,14 @@
         "text_e7gXJJ": {
           "type": "text",
           "settings": {
-            "text": "<p>murmuré invites you to pause in softness —<br/>the feel of natural fabric on skin, the pause between moments, and the quiet assurance of something made to last. </p><p>You live it. The silk remembers.</p>",
+            "text": "{{ metaobjects.home_page_slogan[\"home-page-slogan-mvyevuvb\"].slogen | metafield_tag }}",
             "width": "100%",
             "max_width": "normal",
             "alignment": "center",
-            "type_preset": "h3",
+            "type_preset": "custom",
             "font": "var(--font-heading--family)",
             "font_size": "1.25rem",
-            "line_height": "tight",
+            "line_height": "normal",
             "letter_spacing": "normal",
             "case": "none",
             "wrap": "pretty",
