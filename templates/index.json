@@ -192,96 +192,25 @@
           },
           "blocks": {}
         },
-        "group_aK7kKh": {
-          "type": "group",
-          "name": "t:names.group",
+        "button_Afw8fB": {
+          "type": "button",
+          "name": "t:names.button",
           "settings": {
-            "link": "",
+            "label": "Behind the silk",
+            "link": "shopify://pages/behind-the-silk",
             "open_in_new_tab": false,
-            "content_direction": "row",
-            "vertical_on_mobile": true,
-            "horizontal_alignment": "center",
-            "vertical_alignment": "center",
-            "align_baseline": false,
-            "horizontal_alignment_flex_direction_column": "flex-start",
-            "vertical_alignment_flex_direction_column": "center",
-            "gap": 12,
-            "width": "fill",
+            "style_class": "button-secondary",
+            "width": "fit-content",
             "custom_width": 100,
-            "width_mobile": "fill",
-            "custom_width_mobile": 100,
-            "height": "fit",
-            "custom_height": 100,
-            "inherit_color_scheme": true,
-            "color_scheme": "",
-            "background_media": "none",
-            "video_position": "cover",
-            "background_image_position": "cover",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_radius": 0,
-            "toggle_overlay": false,
-            "overlay_color": "#00000026",
-            "overlay_style": "solid",
-            "gradient_direction": "to top",
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
+            "width_mobile": "fit-content",
+            "custom_width_mobile": 100
           },
-          "blocks": {
-            "text_PM4rrK": {
-              "type": "text",
-              "name": "t:names.text",
-              "settings": {
-                "text": "{{ metaobjects.home_page_slogan[\"home-page-slogan-eh8qe0a4\"].home_page_slogen | metafield_tag }}",
-                "width": "fit-content",
-                "max_width": "normal",
-                "alignment": "left",
-                "type_preset": "custom",
-                "font": "var(--font-accent--family)",
-                "font_size": "1rem",
-                "line_height": "normal",
-                "letter_spacing": "normal",
-                "case": "none",
-                "wrap": "pretty",
-                "color": "var(--color-foreground)",
-                "background": false,
-                "background_color": "#00000026",
-                "corner_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            },
-            "button_ecTpU9": {
-              "type": "button",
-              "name": "t:names.button",
-              "settings": {
-                "label": "Behind the silk",
-                "link": "shopify://pages/behind-the-silk",
-                "open_in_new_tab": false,
-                "style_class": "button-secondary",
-                "width": "fit-content",
-                "custom_width": 100,
-                "width_mobile": "fit-content",
-                "custom_width_mobile": 100
-              },
-              "blocks": {}
-            }
-          },
-          "block_order": [
-            "text_PM4rrK",
-            "button_ecTpU9"
-          ]
+          "blocks": {}
         }
       },
       "block_order": [
         "text_8BW68j",
-        "group_aK7kKh"
+        "button_Afw8fB"
       ],
       "name": "t:names.pull_quote",
       "settings": {
