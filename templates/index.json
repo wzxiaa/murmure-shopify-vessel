@@ -169,7 +169,7 @@
         "text_e7gXJJ": {
           "type": "text",
           "settings": {
-            "text": "{{ metaobjects.home_page_slogan[\"home-page-slogan-mvyevuvb\"].slogen | metafield_tag }}",
+            "text": "{{ metaobjects.home_page_slogan[\"home-page-slogan-mvyevuvb\"].home_page_slogen | metafield_tag }}",
             "width": "100%",
             "max_width": "normal",
             "alignment": "center",
