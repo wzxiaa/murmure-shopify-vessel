@@ -16,11 +16,11 @@
           "type": "text",
           "name": "t:names.heading",
           "settings": {
-            "text": "<p>{{ closest.page.title }}</p>",
+            "text": "<h2>{{ closest.page.title }}</h2>",
             "width": "100%",
             "max_width": "normal",
             "alignment": "center",
-            "type_preset": "h1",
+            "type_preset": "h2",
             "font": "var(--font-body--family)",
             "font_size": "1rem",
             "line_height": "normal",
