@@ -355,7 +355,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>Momme (mm) measures the weight and density of silk—similar to thread count, but more accurate.</p><ul><li><strong>Lower momme (16–19 mm)</strong> feels very light and fluid, while mid-range 19–22 mm offers the ideal balance of softness, durability, and light-blocking for daily use.</li><li><strong>Higher momme (24–25 mm)</strong> feels more substantial and luxurious, though some may find it slightly warmer or heavier.<br/></li></ul><p>If you’re unsure, 19-22 mm is the most universally comfortable and premium choice for an eye mask.</p>",
+                    "text": "<p>Momme (mm) measures the weight and density of silk—similar to thread count, but more accurate.</p><ul><li><strong>Lower momme (16–19 mm)</strong> feels very light and fluid, while mid-range 19–22 mm offers the ideal balance of softness, durability, and light-blocking for daily use.</li><li><strong>Higher momme (24–25 mm)</strong> feels more substantial and luxurious, though some may find it slightly warmer or heavier.</li></ul><p>If you’re unsure, 19-22 mm is the most universally comfortable and premium choice for an eye mask.</p>",
                     "width": "fit-content",
                     "max_width": "none",
                     "alignment": "left",
