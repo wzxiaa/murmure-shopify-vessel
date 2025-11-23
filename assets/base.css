@@ -4121,13 +4121,11 @@ text-component {
   box-shadow: none;
 }
 
-
-
 .custom-media-icon {
   position: absolute;
   top: 10px;
   right: 10px;
-  width: 32px;
-  height: 32px;
+  width: 46px;
+  height: 46px;
   z-index: 20;
 }
