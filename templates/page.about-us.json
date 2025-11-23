@@ -12,56 +12,6 @@
     "main": {
       "type": "main-page",
       "blocks": {
-        "ai_gen_block_8273bd0_Pj9G7X": {
-          "type": "ai_gen_block_8273bd0",
-          "settings": {
-            "title": "Our Journey",
-            "description": "Explore our story through time",
-            "title_size": 32,
-            "description_size": 16,
-            "item_width": 300,
-            "item_gap": 30,
-            "line_thickness": 2,
-            "line_color": "#e6e6e6",
-            "dot_size": 16,
-            "dot_border_width": 2,
-            "dot_spacing": 20,
-            "dot_color": "#ffffff",
-            "dot_border_color": "#000000",
-            "card_background": "#ffffff",
-            "card_border_radius": 8,
-            "image_height": 180,
-            "image_border_radius": 4,
-            "date_size": 12,
-            "item_title_size": 18,
-            "item_text_size": 14,
-            "background_color": "#f9f8f6",
-            "text_color": "#000000",
-            "date_color": "#666666",
-            "scrollbar_color": "#cccccc",
-            "scrollbar_hover_color": "#999999",
-            "scrollbar_track_color": "#f0f0f0",
-            "item_1_date": "2020",
-            "item_1_title": "The Beginning",
-            "item_1_text": "Our journey started with a simple idea and a passion for excellence.",
-            "item_2_date": "2021",
-            "item_2_title": "First Milestone",
-            "item_2_text": "We reached our first major milestone and expanded our team.",
-            "item_3_date": "2022",
-            "item_3_title": "Growth Phase",
-            "item_3_text": "Rapid growth and expansion into new markets.",
-            "item_4_date": "2023",
-            "item_4_title": "Innovation",
-            "item_4_text": "Launched innovative products that changed the industry.",
-            "item_5_date": "2024",
-            "item_5_title": "Global Reach",
-            "item_5_text": "Expanded our presence to serve customers worldwide.",
-            "item_6_date": "2025",
-            "item_6_title": "The Future",
-            "item_6_text": "Continuing to innovate and shape the future of our industry."
-          },
-          "blocks": {}
-        },
         "group_QNE9Wr": {
           "type": "group",
           "name": "t:names.group",
@@ -100,63 +50,11 @@
             "padding-inline-start": 0,
             "padding-inline-end": 0
           },
-          "blocks": {
-            "logo_XixpMP": {
-              "type": "logo",
-              "name": "t:names.logo",
-              "settings": {
-                "inverse": false,
-                "font": "heading",
-                "unit": "percent",
-                "percent_width": 10,
-                "pixel_height": 48,
-                "custom_mobile_size": false,
-                "unit_mobile": "percent",
-                "percent_width_mobile": 100,
-                "pixel_height_mobile": 120,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            }
-          },
-          "block_order": [
-            "logo_XixpMP"
-          ]
-        },
-        "text_KMwtTr": {
-          "type": "text",
-          "name": "t:names.text",
-          "settings": {
-            "text": "{{ closest.page.content }}",
-            "width": "fit-content",
-            "max_width": "normal",
-            "alignment": "left",
-            "type_preset": "rte",
-            "font": "var(--font-body--family)",
-            "font_size": "1rem",
-            "line_height": "normal",
-            "letter_spacing": "normal",
-            "case": "none",
-            "wrap": "pretty",
-            "color": "var(--color-foreground)",
-            "background": false,
-            "background_color": "#00000026",
-            "corner_radius": 0,
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
           "blocks": {}
         }
       },
       "block_order": [
-        "ai_gen_block_8273bd0_Pj9G7X",
-        "group_QNE9Wr",
-        "text_KMwtTr"
+        "group_QNE9Wr"
       ],
       "settings": {
         "content_direction": "column",
